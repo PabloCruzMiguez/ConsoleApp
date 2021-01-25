@@ -1,0 +1,13 @@
+C:\Users\Cruz Miguez\source\repos\EjerClase14-01-21\bin\Debug\netcoreapp3.1\EjerClase14-01-21.exe
+C:\Users\Cruz Miguez\source\repos\EjerClase14-01-21\bin\Debug\netcoreapp3.1\EjerClase14-01-21.deps.json
+C:\Users\Cruz Miguez\source\repos\EjerClase14-01-21\bin\Debug\netcoreapp3.1\EjerClase14-01-21.runtimeconfig.json
+C:\Users\Cruz Miguez\source\repos\EjerClase14-01-21\bin\Debug\netcoreapp3.1\EjerClase14-01-21.runtimeconfig.dev.json
+C:\Users\Cruz Miguez\source\repos\EjerClase14-01-21\bin\Debug\netcoreapp3.1\EjerClase14-01-21.dll
+C:\Users\Cruz Miguez\source\repos\EjerClase14-01-21\bin\Debug\netcoreapp3.1\EjerClase14-01-21.pdb
+C:\Users\Cruz Miguez\source\repos\EjerClase14-01-21\obj\Debug\netcoreapp3.1\EjerClase14-01-21.csprojAssemblyReference.cache
+C:\Users\Cruz Miguez\source\repos\EjerClase14-01-21\obj\Debug\netcoreapp3.1\EjerClase14-01-21.AssemblyInfoInputs.cache
+C:\Users\Cruz Miguez\source\repos\EjerClase14-01-21\obj\Debug\netcoreapp3.1\EjerClase14-01-21.AssemblyInfo.cs
+C:\Users\Cruz Miguez\source\repos\EjerClase14-01-21\obj\Debug\netcoreapp3.1\EjerClase14-01-21.csproj.CoreCompileInputs.cache
+C:\Users\Cruz Miguez\source\repos\EjerClase14-01-21\obj\Debug\netcoreapp3.1\EjerClase14-01-21.dll
+C:\Users\Cruz Miguez\source\repos\EjerClase14-01-21\obj\Debug\netcoreapp3.1\EjerClase14-01-21.pdb
+C:\Users\Cruz Miguez\source\repos\EjerClase14-01-21\obj\Debug\netcoreapp3.1\EjerClase14-01-21.genruntimeconfig.cache
